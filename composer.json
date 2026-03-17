@@ -1,6 +1,6 @@
 {
     "name": "phpsandbox/standard",
-    "description": "Official scaffold for Standard notebooks on PHPSandbox",
+    "description": "Start template of a PHP-project.",
     "type": "project",
     "license": "MIT",
     "authors": [
